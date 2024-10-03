@@ -2,7 +2,7 @@
 
 - 🔭 I’m a Web Developer and Data Scientist.
 
-- 📚 I'm currently a Masters student at Imperial College London studying Environmental Data Science and Machime Learning
+- 📚 I'm currently a Masters student at Imperial College London studying Environmental Data Science and Machine Learning
 
 - 🌱 I dabble in WordPress development.
 
